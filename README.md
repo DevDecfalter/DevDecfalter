@@ -14,9 +14,10 @@ Olá! Me chamo Brian e sou um entusiasta da tecnologia apaixonado em aprender, n
 <hr>
 
 ## Projetos Destacados
-- [Nome do Projeto](link): Breve descrição do projeto.
-- [Nome do Projeto](link): Breve descrição do projeto.
-- [Nome do Projeto](link): Breve descrição do projeto.
+- [Projeto 1: Benefícios Da Água💧](https://devdecfalter.github.io/Projetos/beneficios-da-agua/index.html): A página '5 Benefícios da Água' oferece uma análise detalhada dos impactos positivos da hidratação em nosso corpo e mente. Abordando desde a função essencial da água na saúde dos órgãos até a promoção da função cognitiva, cada benefício é cuidadosamente explicado.
+- [Projeto 2: Livros lidos📚](https://devdecfalter.github.io/Projetos/livros-lidos/index.html): Minha 'Lista de Livros Lidos durante a Vida' é um mergulho profundo nas páginas que moldaram minha jornada literária. Cada título representa não apenas uma leitura, mas uma experiência única que contribuiu para meu amor crescente pelos livros.
+- [Projeto 3: Biografia Scarlxrd📝](https://devdecfalter.github.io/Projetos/bio-scar/index.html): A 'Biografia Scarlxrd' oferece uma narrativa envolvente da jornada artística e musical de Marius Lucas Antonio Listhrop, mais conhecido como Scarlxrd. Iniciando como Mazzi Maz, uma personalidade alegre e sorridente no YouTube, Scarlxrd evoluiu para se tornar um rapper inovador, fundindo trap e heavy metal, e é reconhecido como um dos pioneiros do gênero trap metal.
+- - [Projeto 4:Discografia do Scarlxrd📝](https://devdecfalter.github.io/Projetos/discografia-scar/index.html): Nesta página, compartilho a jornada musical de Scarlxrd através de sua discografia completa, desde os primeiros álbuns até seu lançamento mais recente.
 <hr>
 
 ## Contato
