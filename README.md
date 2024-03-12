@@ -20,7 +20,7 @@ Olá! Me chamo Brian e sou um entusiasta da tecnologia apaixonado em aprender, n
 
 ## Contato
 - LinkedIn: [Brian Muniz](www.linkedin.com/in/brian-muniz-silveira-220367297)
-- Email: [DevDec](mailto:devdec463@gmail.com)
+- Email: [devdec463@gmail.com](mailto:devdec463@gmail.com)
 - Website: [Website](link)
 <hr>
 
