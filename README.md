@@ -31,7 +31,7 @@ Se você estiver interessado em colaborar em algum dos meus projetos ou tiver al
 <hr>
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevDec&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevDecfalter&show_icons=true)
 <hr>
 
 ## Linguagens Mais Usadas
