@@ -1,4 +1,7 @@
 # Welcome to My GitHub Profile!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdecfalter&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdecfalter&layout=compact) ![Wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)
+
 ---
 
 ## About Me
@@ -28,14 +31,7 @@ Hello! My name is Brian, and I'm a technology enthusiast passionate about learni
 
 ## Contributions
 If you're interested in collaborating on any of my projects or have any interesting ideas to discuss, feel free to get in touch with me!
----
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdecfalter&show_icons=true)
----
-
-## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdecfalter&layout=compact)
 ---
 
 ## Thank You for Visiting!
