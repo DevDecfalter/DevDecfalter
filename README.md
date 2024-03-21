@@ -13,7 +13,8 @@ Hello! My name is Brian, and I'm a technology enthusiast passionate about learni
 ---
 
 - Development Tools: <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="65px" width="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" height="65px" width="65px"/>
+          
 ---
 
 ## Featured Projects
