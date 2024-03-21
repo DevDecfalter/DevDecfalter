@@ -1,4 +1,49 @@
-# Welcome to My GitHub Profile!
+# Bem-vindo ao Meu Perfil no GitHub!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdecfalter&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdecfalter&layout=compact) ![Wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)
+
+---
+
+## Sobre Mim
+Olá! Meu nome é Brian, e sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em Front-End. Estou sempre procurando aprender coisas novas e colaborar em projetos interessantes.
+
+## Habilidades
+- Linguagens de Programação: <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="65px" width="65" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="65px" width="65"/>
+---
+
+- Ferramentas de Desenvolvimento: <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="65px" width="65" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original-wordmark.svg" height="65px" width="65px"/>
+          
+---
+
+## Projetos em Destaque
+- [Projeto 1: Benefícios da Água💧](https://devdecfalter.github.io/Projetos/beneficios-da-agua/index.html): A página '5 Benefícios da Água' oferece uma análise detalhada dos impactos positivos da hidratação em nosso corpo e mente.
+- [Projeto 2: Livros Lidos📚](https://devdecfalter.github.io/Projetos/livros-lidos/index.html): Minha 'Lista de Livros Lidos na Vida' é uma imersão nas páginas que moldaram minha jornada literária.
+- [Projeto 3: Biografia do Scarlxrd📝](https://devdecfalter.github.io/Projetos/bio-scar/index.html): A 'Biografia do Scarlxrd' oferece uma narrativa envolvente sobre a jornada artística e musical de Marius Lucas Antonio Listhrop, mais conhecido como Scarlxrd.
+- [Projeto 4: Discografia do Scarlxrd📝](https://devdecfalter.github.io/Projetos/discografia-scar/index.html): Nesta página, compartilho a jornada musical de Scarlxrd através de sua discografia completa.
+---
+
+## Contato
+- LinkedIn: [Brian Muniz](https://www.linkedin.com/in/brian-muniz-silveira-220367297/)
+- Email: [devdec463@gmail.com](mailto:devdec463@gmail.com)
+- Website: [Website](https://devdecfalter.github.io/Projetos/)
+---
+
+## Contribuições
+Se você estiver interessado em colaborar em algum dos meus projetos ou tiver alguma ideia interessante para discutir, sinta-se à vontade para entrar em contato comigo!
+
+---
+
+## Obrigado pela Visita!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou sugestão. 😊
+
+
+---
+
+# English Version
+
+## Welcome to My GitHub Profile!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devdecfalter&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devdecfalter&layout=compact) ![Wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)
 
