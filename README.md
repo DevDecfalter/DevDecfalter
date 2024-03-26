@@ -1,6 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/DevDecfalter)
-
-
 <div align="center">
 
 <a href="https://github.com/DevDecfalter" target="blank">
