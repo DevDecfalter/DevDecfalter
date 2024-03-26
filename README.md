@@ -29,6 +29,8 @@
 
 Olá! Meu nome é Brian, e sou um entusiasta da tecnologia apaixonado por aprender, com foco atual em Front-End. Estou sempre procurando aprender coisas novas e colaborar em projetos interessantes. E sou aluno do <a href="https://github.com/gustavoguanabara" target="_blank">@Prof°Guanabara</a>.
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DevDec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ##### Além da Web...
 
 * Sou SpeedCuber <br>
