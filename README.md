@@ -1,5 +1,7 @@
 <div align="center">
 
+[![wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)](https://wakatime.com/@018e3f91-aa3d-4aa8-92b4-71fa85a0fd74)
+
 <a href="https://github.com/DevDecfalter" target="blank">
           <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=HexaCorLogo" target="_blank" /> 
 </a>
