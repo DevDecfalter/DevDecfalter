@@ -1,6 +1,6 @@
-<h1 align="center"> ⭐ Bem vindos ao meu perfil ⭐ </h1>
-
 <div align="center">
+          
+![Banner](https://raw.githubusercontent.com/DevDecfalter/DevDecfalter/main/bem-vindo.png)
 
 [![wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)](https://wakatime.com/@018e3f91-aa3d-4aa8-92b4-71fa85a0fd74)
 
