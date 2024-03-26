@@ -1,3 +1,5 @@
+<h1 align="center"> ⭐ Bem vindos ao meu perfil ⭐ </h1>
+
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/018e3f91-aa3d-4aa8-92b4-71fa85a0fd74.svg)](https://wakatime.com/@018e3f91-aa3d-4aa8-92b4-71fa85a0fd74)
@@ -5,11 +7,11 @@
 <a href="https://github.com/DevDecfalter" target="blank">
           <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=HexaCorLogo" target="_blank" /> 
 </a>
-<br>
+
 <a href="https://www.linkedin.com/in/brian-muniz-silveira-220367297/" target="blank">
  <img src="https://img.shields.io/badge/LinkedIn-rgb(10,%20102,%20194)?style=for-the-badge&logo=linkedin&logoColor=HexaCorLogo" target="_blank" /> 
 </a>
-<br>
+
 <a href="mailto:devdec463@gmail.com" target="blank">
  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"> 
 </a>
@@ -20,7 +22,7 @@
 
 <a href="https://www.duolingo.com/profile/Decfalter" target="_blank">
  <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
-<br>
+
 <a href="https://steamcommunity.com/profiles/76561198892657477">
  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
 </a>
