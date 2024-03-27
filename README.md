@@ -48,6 +48,6 @@ Olá! Meu nome é Brian, e sou um entusiasta da tecnologia apaixonado por aprend
 
 Alguns dos meus livros favoritos :book::
 * <a href="https://www.skoob.com.br/2001-uma-odisseia-no-espaco-4457ed5516.html" target="_blank" rel="external">2001: Uma Odisseia no Espaço: Arthur C. Clarke :orange_book:</a>	
-* <a href="https://www.skoob.com.br/a-realidade-de-madhu-415248ed471546.html" target="_blank" rel="external">A realidade de Madhu :open_book:</a>
+* <a href="https://www.skoob.com.br/a-realidade-de-madhu-415248ed471546.html" target="_blank" rel="external">A realidade de Madhu: Melissa Tobias :open_book:</a>
 * <a href="https://www.skoob.com.br/o-assassinato-e-outras-historias-10923ed384772.html" target="_blank" rel="external">Bunker - Diário da Agonia: Kevin Brooks :closed_book:</a>
-* <a href="https://www.skoob.com.br/o-assassinato-e-outras-historias-10923ed384772.html" target="_blank" rel="external">O assassinato e outras histórias (Prosa do Mundo):Anton Tchekhov :green_book:</a>
+* <a href="https://www.skoob.com.br/o-assassinato-e-outras-historias-10923ed384772.html" target="_blank" rel="external">O assassinato e outras histórias (Prosa do Mundo): Anton Tchekhov :green_book:</a>
